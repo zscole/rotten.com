@@ -1,0 +1,563 @@
+<html>
+<head>
+<title>rotten.com Search</title>
+<base href="http://www.rotten.com/search/">
+<meta http-equiv="Pragma" content="no-cache">
+<style type="text/css">
+<!--
+.fotmbar {  color: #FFFFFF; text-decoration: none}
+.fotmbar:hover { color: #FFFFFF; text-decoration: underline}
+-->
+</style>
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" 
+text="#000000" >
+
+<!--text="#000000" link="#990033" vlink="#000000" alink="#666666" >-->
+<center>
+
+<table width="735" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+
+<!------------- MAST --------------------------->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr align="center"> 
+<td>
+<map name=mast>
+  <area coords=215,125,240,175    href="http://www.jerkcity.com/" target=_blank>
+  <area coords=380,65,425,175    href="http://fotm.rotten.com/fotm/" target=_blank>
+  <area coords=269,108,322,139    href="http://www.rotten.com/press/" target=_blank>
+  <!--area coords=215,0,240,23  href="http://www.dailyrotten.com/"-->
+  <!--area coords=235,0,433,23 href="http://www.dailyrotten.com/articles/"-->
+</map>
+<br><img src="m5-pants.jpg" ismap usemap="#mast" border=0 height=200 width=735><br><br></td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr bgcolor="#ffffff">
+<td>
+<map name=fool>
+  <area coords="0,0,96,23" href="http://www.rotten.com/" alt="rotten">
+  <area coords="96,0,233,23"  href="http://www.dailyrotten.com/" alt="dailyrotten">
+  <area coords="234,0,335,23" href="http://www.boners.com/" alt="boners">
+  <area coords="336,0,433,23" href="http://www.rotten.com/search/" alt="rotten search">
+</map>
+<img src="tabness-search.jpg" ismap usemap="#fool" border=0></td>
+</tr>
+
+<!------------- BAR LINKS --------------------------->
+
+<tr>
+<td bgcolor="#666666" height=2>
+</td>
+</tr>
+
+<tr bgcolor="#666666">
+<td table width=30%>
+
+<!------------- TODAY --------------------------->
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"> 
+<td bgcolor="#CCCCCC"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr align="center" bgcolor="#999999"> 
+<td nowrap><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<b>What's this button do</b></font></td>
+</tr>
+<tr> 
+<td>
+<font face="Verdana,Arial,Helvetica,sans-serif" size="2" color="000000">
+<center>
+
+<center>
+<br>
+
+<a href="http://www.dailyrotten.com/">
+<img src="news.gif" border=0></a>
+
+<a href="http://www.rottenstore.com/">
+<img src="tshirts.gif" border=0></a>
+
+<a href="http://www.famous-nudes.com/">
+<img src="celeb.gif" border=0></a>
+
+<a href="http://www.rotten.com/about/">
+<img src="about.gif" border=0></a>
+
+<a href="http://www.mugshots.org/">
+<img src="mugshots.gif" border=0></a>
+
+<a href="http://www.CelebrityMorgue.com/">
+<img src="morgue.gif" border=0></a>
+
+<a href="http://www.fetishmaximus.com/">
+<img src="porno.gif" border=0></a>
+
+<a href="http://www.rotten.com/links/">
+<img src="links.gif" border=0></a>
+
+
+</center>
+
+
+</center>
+</font>
+</td>
+</tr>
+</table>
+<br>
+
+
+<!------------- YESTERDAY --------------------------->
+
+<!--
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr align="center" bgcolor="#999999">
+<td nowrap><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<b>More Features</b></font></td>
+</tr>
+<tr>
+<td><font face="Verdana,Arial,Helvetica,sans-serif" size="2" color="000000">
+<center>
+
+<table cellpadding=10>
+
+<tr>
+<td>
+<center>
+<font color=white size=4 face="arial, helvetica">
+<a href="http://www.mugshots.org/">
+<b>mugshots</b></a>
+</font>
+</center>
+</td>
+</tr>
+
+<tr>
+<tr>
+<td>
+<center>
+<font color=white size=4 face="arial, helvetica">
+<a href="http://www.celebritymorgue.com/">
+<b>morgue</b></a>
+</font>
+</center>
+</td>
+</tr>
+
+</table>
+
+
+
+</center>
+</font></td>
+</tr>
+</table>
+-->
+<br>
+
+
+
+<!------------- CENTER --------------------------->
+
+
+<!------------- FEATURE --------------------------->
+
+</td>
+<td bgcolor="#666666" width="1"><br>
+</td>
+<td width=70% bgcolor="#FFFFFF" align="center"> 
+<br>
+
+
+<!------------- BUZZ --------------------------->
+
+<p>
+<table border="0" cellspacing="0" cellpadding="2" width=95%>
+<tr align="left"> 
+<td>
+<font face="Verdana,Arial,Helvetica,sans-serif" color=#000000>
+
+
+<font size=6 color=red>
+search rotten.com
+</font>
+<br>
+these are not the droids you are looking for
+<br>
+<p>
+
+<form action="/cgi-bin/search.cgi" method="get">
+<input type="text" name="query" size="40" value="billy the kid "></input>
+<input type="submit" value="Search">
+</form>
+<p>
+<br>
+<br>
+
+There were 30 matches found:<p>
+<p>
+<a href="http://coke.rotten.com/afghankids/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Afghan Kids</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Feature</font><br>
+Our first exploratory into K-12 art<br>
+<p>
+<p>
+<a href="http://www.gapingmaw.com/72773/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Mothers Who Think</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Gaping Maw</font><br>
+<p>
+<p>
+<a href="http://www.gapingmaw.com/73257/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Fundamentalisms of Literacy</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Gaping Maw</font><br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/articles/archive/66.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Porn For Kids</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>A Dailyrotten Archive article</font><br>
+January 16, 2001<br>
+<p>
+<p>
+<a href="http://www.gapingmaw.com/69730/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>High School Sports Memories</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Gaping Maw</font><br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2002/03/28/whiskey.binge/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Boy went on whiskey binge</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+"The [11 year old] boy's blood-alcohol content was 0.32 percent when he
+was tested at the hospital, or more than three times the legal threshold
+for drunken driving... "I've seen an awful lot of drunk kids," said Guy
+Bull, an Aurora firefighter and paramedic who opened the boy's airway.
+"But that kid at that age was the drunkest I've seen in my life. 
+That was out of control."
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2001/12/12/suicide.school/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Hamas suicide school for kids</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+Is the waiting list for your local preschool too long? Perhaps you
+can consider sending your child to an alternative institution:
+"He and other kids - as young as 4 and no older than 8 - are fitted with
+fake explosives as they are taught how to become suicidal terrorists by
+members of the Palestinian terror group Hamas."
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/articles/archive/21.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Man Serves Boy as Hamburger Meat to Neighbors</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>A Dailyrotten Archive article</font><br>
+January 1, 2001<br>
+<p>
+<p>
+<a href="http://www.gapingmaw.com/129463/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>America Goes To War</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Gaping Maw</font><br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/articles/archive/126.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Where are Screaming Jay's Kids?</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>A Dailyrotten Archive article</font><br>
+April 28, 2000<br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2001/10/29/devils.night/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Devils Night in Detroit</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+Every year before Halloween, kwazy kids set hundreds of fires in Detroit,
+in a tradition going back to the 19th century. Perhaps by lamely renaming
+it "Angels Night", the mayor hopes to put a stop to the flammable evening --
+but arson's foes have been trying since 1994 to do just that.
+
+
+<p>
+<p>
+<a href="http://www.boners.com/grub/787438.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Kids Shot</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Boners</font><br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2001/11/13/kenyan.god/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Kenyan God smites humanity</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+God has come again, this time in the form of a poor Kenyan. No, really.
+Just ask him. He enjoys smiting humanity with AIDS, having sex, 25 wives,
+95 kids, and blackmailing the local authorities-- "If the Kenyan Government
+does not give me 3 billion shillings I will bring a curse on Kenyans",
+he warns. If only we could all be God, it would surely fix everything.
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2001/10/31/anthrax.plates/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>ANTHRAX brings out the best</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+"He's been flipped off, scowled at, talked about and judged. The worst, he
+said, was a woman with a carload of kids who saw his license plate. Onstad
+could see her mouth these words to her children: <i>Don't you ever grow up
+to be like that.</i>"
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2001/11/15/fooling.kids/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Explosive diarrhea does not fool kids</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+Apparently there are still marketers who think that a clever message
+such as "Let's talk about explosive diarrhea for a moment" will fool children
+into not trying drugs. People use drugs because, well, they're fun. 
+Such tactics may work against a fifth-grader but not someone in high school.
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2002/02/14/jihad.kids/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Jihad for Kids</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+"Oh sing my sister constantly about my life as a suicide warrior...
+I foresee my death, but I march quickly. Am I afraid? Life has little
+value because I'm returning to my lord and my people will know I am
+a hero... I will come at the time of drought with my best efforts bring
+a machine gun, violence anger, anger, anger..."
+
+
+<p>
+<p>
+<a href="http://www.boners.com/grub/384017.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Spy Kids are at it again</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Boners</font><br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2002/03/15/blind.boy/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Blind boy gets some</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+Here is the mugshot that answers the question we've all been asking, 
+which is how ugly do you have to be when the only way you can get laid
+is with an 11 year old <i>blind</i> boy? Her husband catches them in bed
+together and does...well, nothing apparently. Eventually the kid tells
+one of his teachers, and 44 year old Kathy Tuifel is arrested on child
+rape charges. 
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/articles/archive/49458.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Damaged Kids</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>A Dailyrotten Archive article</font><br>
+April 27, 2001<br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/articles/archive/342.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Scheming Japs Levise Histoly</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>A Dailyrotten Archive article</font><br>
+April 3, 2001<br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/articles/archive/238.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Teaching Our Kids to be Narqs</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>A Dailyrotten Archive article</font><br>
+February 18, 2000<br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2001/10/19/novel.security/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Novel Security at United Air Lines</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+Sometimes, new security measures at airports make sense, and are at most
+an inconvenience. But other times, the capriciousness of airline employees
+(in this case at United Airlines) is astonishing. You really do have to 
+read this all the way through to see how idiotic things can get in the current
+climate of irrational fear, in this case channeled at an obviously quite
+innocent 22 year old white kid from Philadelphia.
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2001/11/09/skin.husband/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Woman skins husband, feeds parts to kids</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+Apparently upset because her husband was not properly sharing his assets,
+Katherine Knight stabbed, decapitated, and skinned her husband. She then
+cooked the juciest, most select parts and served them to her children.
+For this Knight has now received life imprisonment without Worcestershire
+sauce. "Knight, who had worked as a meat slicer in abattoirs, skinned Price
+with such expertise and a steady hand that his skin, including that of his
+head, face, nose, ears, neck, torso, genital organs, and legs, was removed
+to form one pelt."
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/articles/archive/127594.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>We All Scream For Ice Cream</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>A Dailyrotten Archive article</font><br>
+October 4, 2001<br>
+<p>
+<p>
+<a href="http://www.boners.com/grub/790200.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>That's a big... kid</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Boners</font><br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2001/09/21/begone.satan/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Former mom wants Satan out</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+Andrea Yates, the woman who drowned her five kids in a bathtub, is
+requesting execution in order to drive away the Prince of Darkness. Quoting
+a defense psychologist, "She said she should be punished and that the
+state would destroy her and Satan."
+
+
+<p>
+<p>
+<a href="http://www.boners.com/grub/381890.html">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Kids do love gefiltefish</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Boners</font><br>
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2002/03/15/sewage.leak/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Raw sewage leak stinks up high school play</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+"A performance of <i>The Wizard of Oz</i> at Oconomowoc High School turned
+ugly when 300 gallons of raw sewage leaked into a room next to the school
+auditorium. 'The kids did an incredible job, especially since it was
+extremely stinky', said Betsy Freeman, who helped create the costumes
+for Thursday's play."
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2002/01/03/gay.ups/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>Gay UPS-man doll under fire</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+"The BPS Billy doll, an anatomically correct plastic figure, is dressed in
+a brown uniform with a package-shaped logo. Both accouterments are similar
+to the United Parcel Service's trademark, King & Spalding lawyers say. The
+doll sells for $45.95 on BeProud.com, a Web site that touts itself as a
+"gay and lesbian online shopping mall." 
+
+
+<p>
+<p>
+<a href="http://www.dailyrotten.com/link/2002/04/05/playground.rampage/">
+<font size=4 face="arial,helvetica" color=3366CC>
+<b>18 injured in playground rampage</b></font></a>
+<br>
+<font face="arial,helvetica" size=-1 color=green>Daily Rotten</font><br>
+"As children pounded on locked doors of the Songhai Learning Institute
+around 8:30 a.m., young students from the nearby Curtis Elementary School
+stormed the playground--according to some Songhai students, they were
+clutching baseball bats, two-by-fours, pipes and rocks--and began beating
+the Songhai kids. Eighteen were sent to hospitals, and 23 Curtis children
+were arrested and charged as juveniles with mob action, authorities said."
+
+
+<p>
+<p>
+
+<font color=white>
+This is a message to any cells who answer to the code key
+IBOGAINE: The masseuse has your transmitter. Send the message
+query IXTAPA and wait for the third tap. Dial 9 and you
+will be told how to proceed.
+</font>
+
+
+
+
+<p>
+
+</font>
+</td>
+</tr>
+</table>
+
+</td>
+<td bgcolor="#666666" width="1"><br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td nowrap align="left" bgcolor="#666666" width="40%"><font size="2" color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;Copyright 2001 Soylent Communications</font></td><td nowrap align="right" bgcolor="#666666"><font color="#FFFFFF"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://www.rotten.com" class="fotmbar">rotten.com</a>&nbsp;<font color="#FFFFFF">|</font>&nbsp;<a href="http://www.dailyrotten.com/" class="fotmbar">daily rotten</a><font color="#FFFFFF">&nbsp;|</font>&nbsp;<a href="http://www.gapingmaw.com/" class="fotmbar">gaping maw</a><font color="#FFFFFF">&nbsp;|</font>&nbsp;<a href="/about/" class="fotmbar">about</a>&nbsp;</font></font></td></tr></table>
+
+
+</td>
+</tr>
+</table>
+
+<p>
+
+</center>
+</body>
+</html>

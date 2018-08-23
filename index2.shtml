@@ -1,0 +1,48 @@
+<html>
+
+	<head>
+	<body bgcolor=#ffffff>
+
+		<title>Welcome to Dreamsters.com</title>
+
+		<map name="dreamstersMap">
+			<area shape="rect" coords="246, 47, 348, 72"
+				href="contact.html" onMouseOver="window.status='How to get a hold of us.'; return true">
+			<area shape="rect" coords="245, 25, 360, 46"
+				href="rates.html" onMouseOver="window.status='Services and Rates.'; return true">
+			<area shape="rect" coords="241, 2, 370, 21"
+				href="portfolio.html" onMouseOver="window.status='Take a look at what we have done and who we have done if for.'; return true">
+			<area shape="rect" coords="0, 51, 105, 75"
+				href="form.html" onMouseOver="window.status='Tell us about yourself.'; return true"> 
+			<area shape="rect" coords="2, 26, 109, 48"
+				href="work.html" onMouseOver="window.status='What we can do for you.'; return true">
+			<area shape="rect" coords="3, 1, 110, 22"
+				href="us.html" onMouseOver="window.status='Who we are.'; return true">
+		</map>
+
+	</head>
+
+	<body>
+	<embed src="midi/shook.mid" autostart=true hidden=true></embed>
+
+	<center><img src="images/inc.jpg"><br>
+	<br>
+	<img src="images/helpjoin.jpg">
+	<br>
+
+		<img src="images/buttons.gif" border=0
+			usemap="#dreamstersMap" alt="ImageMap - Better use Netscape 2.0+"><br>
+			<a href="fun.html"><img src="images/fun.jpg" border=0></a>
+			<br>
+			<br>
+			<a href="mailto:webmaster@dreamsters.com" onMouseOver="window.status='I crave mail.  Send me some.'; return true"><img src="images/mailspin.gif" border=0><br>
+			Mail the Webmaster</a>
+			<br>
+			<br>
+			<img src="images/browser7.gif">
+			</center>
+
+ 
+	</body>
+
+</html>

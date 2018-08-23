@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Feed Back Form</title>
+<body bgcolor=#ffffff>
+</head>
+<body>
+<center>
+<img src="images/form.jpg"><br>
+<h1>Let's hear from you!</h1><br>
+<font size=4>We're not going to ask you to fill out a lengthy questionaire. We would like to hear from you, though.
+ Please send us any comments you have.  If you would like us to give you a call, indicate
+so in the comment area.</center>
+<br>
+<br>
+<FORM METHOD="POST" ACTION="http://dreamsters.com/cgi-dreamsters/formmail.cgi">
+<INPUT TYPE="HIDDEN" NAME="recipient"  VALUE="form@dreamsters.com">
+<INPUT TYPE="HIDDEN" NAME="Subject"  VALUE="Form Feedback">
+<input type=hidden name="env_report" value="REMOTE_HOST,HTTP_USER_AGENT,REMOTE_ADDR">
+<input type=hidden name="redirect" value="http://www.dreamsters.com/index2.shtml">
+<input type=hidden name="required" value="email">
+
+
+<br>
+Name: <INPUT TYPE="text" NAME="realname" value="" size=35><br>
+Address: <INPUT TYPE="text" NAME="address" size=35><br>
+Phone Number: <INPUT TYPE="text" NAME="phone" value="" size=15><br>
+Email Address(required): <INPUT TYPE="text" NAME="email" value="" size=35><br>
+Send Us any comments you may have:<br>
+<textarea COLS=60 ROWS=4 name="comments"></textarea><br>
+<input type=submit value="Submit"> <input type=reset value="Reset">
+
+</form>
+
+<hr>
+<a href="index2.shtml"><img src="images/home.gif"></a>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
