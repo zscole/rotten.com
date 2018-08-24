@@ -2,7 +2,7 @@
 
 For my 12th birthday, my mom got me my own computer - one of those iMac's with the transparent colored back. With Y2K right around the corner, the implications of unrestricted internet access blew my fragile, pre-pubescent mind. I began to spend less and less time catching Pokemon on my Game Boy Color and started to shift my focus toward exploring the depths of the Internet, an endeavour I haven't since given up on. As I soaked up as much information a 56k connection could provide, my views of the world quickly transmogrified before my very eyes. Of all the content and data I would parse for hours on end, none had such a profound impact on me as Rotten.com. Although this archive of disturbing illustration depicted a wide range of perverse imagery that would be considered rather vanilla by today's standards, it helped lay the foundation for my edgy teen years, which were defined by bizarre experiments in technology.  
 
-(https://github.com/zscole/rotten.com/master/more/agony-logo.jpg)
+![Rotten](https://github.com/zscole/rotten.com/master/more/agony-logo.jpg)
 
 ## 99.9% HTML, 0.1% Bad Ass
 
